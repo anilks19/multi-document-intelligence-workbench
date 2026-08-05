@@ -1,0 +1,158 @@
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+.header h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.75rem;
+}
+
+.header p {
+  margin: 0 0 1.5rem;
+  color: #555;
+}
+
+.panel {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.field span {
+  font-weight: 600;
+}
+
+.field textarea {
+  resize: vertical;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font: inherit;
+}
+
+.file-list ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.25rem;
+}
+
+button[type="submit"] {
+  align-self: flex-start;
+  padding: 0.6rem 1.25rem;
+  border: none;
+  border-radius: 6px;
+  background: #1a1a1a;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+button[type="submit"]:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.error {
+  margin-top: 1rem;
+  color: #b00020;
+}
+
+.saved-docs,
+.results {
+  margin-top: 1.25rem;
+}
+
+.saved-docs h2,
+.results h2,
+.results h3 {
+  margin: 0 0 0.5rem;
+}
+
+.saved-docs ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.results-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.copy-btn {
+  padding: 0.45rem 0.9rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background: #f0f0f0;
+}
+
+.result-block {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.summary-text {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.comparison-table th,
+.comparison-table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 0.65rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.comparison-table th {
+  background: #f7f7f7;
+}
+
+.comparison-table th:first-child,
+.comparison-table td:first-child {
+  width: 2.5rem;
+}
+
+.result-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.result-list--warn li {
+  color: #7a3b00;
+}
+
+.muted {
+  color: #777;
+  margin: 0;
+}

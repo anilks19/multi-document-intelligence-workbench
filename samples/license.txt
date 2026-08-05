@@ -1,0 +1,26 @@
+SYNTHETIC DOCUMENT — FOR TESTING ONLY
+Business License Summary
+========================================
+
+Document ID: SYN-LIC-9001
+Issuer: Fictional State Commerce Registry (Demo)
+
+Company Name: NovaPeak Analytics LLC
+Doing Business As: NovaPeak Demo
+Registration Number: DEMO-REG-77821
+License Number: DEMO-LIC-44510
+License Status: Active
+License Expiry: 31 Dec 2027
+
+Registered Address:
+88 Harbor Lane, Suite 210
+Seattle, WA 98101
+United States
+
+Authorized Officer: Ava Quill
+Officer Title: Managing Director
+
+Notes:
+- This license record does NOT include annual revenue.
+- This license record does NOT include employee headcount.
+- Synthetic data only. Not a real company or customer.

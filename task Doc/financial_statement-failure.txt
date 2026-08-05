@@ -1,0 +1,9 @@
+
+Company Name: anil Technologies Pvt Ltd
+Registration Number: REG-12345
+Director: AKs Smith
+Address: 12 Park Street, Mumbai
+Revenue: ₹15,00,00,000
+Licence Number: LIC-9876
+Licence Expiry: 31 Dec 2030
+

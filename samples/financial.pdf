@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>endobj
+4 0 obj<< /Length 1065 >>stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+(SYNTHETIC DOCUMENT - FOR TESTING ONLY) Tj
+T*
+(Financial Statement Extract) Tj
+T*
+(========================================) Tj
+T*
+( ) Tj
+T*
+(Document ID: SYN-FIN-2002) Tj
+T*
+(Company Name: NovaPeak Analytic Systems Inc) Tj
+T*
+(Registration Number: DEMO-REG-77821) Tj
+T*
+(Prepared For: Internal demo review) Tj
+T*
+(Fiscal Year: 2025) Tj
+T*
+( ) Tj
+T*
+(Headquarters Address:) Tj
+T*
+(1200 Market Street, Floor 4) Tj
+T*
+(Portland, OR 97201) Tj
+T*
+(United States) Tj
+T*
+( ) Tj
+T*
+(Reported Annual Revenue: USD 9,750,000) Tj
+T*
+(Operating Expense: USD 6,100,000) Tj
+T*
+(Net Income: USD 1,420,000) Tj
+T*
+( ) Tj
+T*
+(Notes:) Tj
+T*
+(- Company name differs from application/license \(intentional\).) Tj
+T*
+(- Address differs from application/license \(intentional\).) Tj
+T*
+(- Revenue differs from application \(intentional\).) Tj
+T*
+(- Director / officer name is MISSING on this statement \(intentional\).) Tj
+T*
+(- License number is MISSING on this statement \(intentional\).) Tj
+T*
+(- Synthetic data only. Not a real company or customer.) Tj
+ET
+endstream
+endobj
+5 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000235 00000 n 
+0000001350 00000 n 
+trailer<< /Size 6 /Root 1 0 R >>
+startxref
+1418
+%%EOF
